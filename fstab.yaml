@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/aso-sandbox-sites/sandbox-sites/deckreyes-frescopa
+  /:
+    url: "https://author-p8661-e1181478.adobeaemcloud.com/bin/franklin.delivery/sameryadav/frescopa-aso/main"
+    type: "markup"
+    suffix: ".html"
